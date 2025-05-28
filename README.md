@@ -1,4 +1,5 @@
 <h1 align="left">Hey there, I'm Gerd!</h1>
+<p>Als technikverliebter Maschinenbauingenieur habe ich mich der Softwareentwicklung von Fullstack-Anwendungen verschrieben.</p>
 
 ###
 
