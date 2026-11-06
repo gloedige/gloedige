@@ -58,7 +58,8 @@
 ###
 
 <div align="center">
-   ![Stats](profile/stats.svg)
+   <!-- ![Stats](profile/stats.svg) -->
+  <img src="profile/stats.svg" alt="Github Stats" />
 </div>
 
 ###
