@@ -58,7 +58,7 @@
 ###
 
 <div align="center">
-   ![Stats](./profile/stats.svg)
+   ![Stats](profile/stats.svg)
 </div>
 
 ###
